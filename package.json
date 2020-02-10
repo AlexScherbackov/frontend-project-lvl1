@@ -1,0 +1,19 @@
+{
+  "name": "frontend-project-lvl1",
+  "version": "1.0.0",
+  "description": "hexlet project",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexScherbackov/frontend-project-lvl1.git"
+  },
+  "author": "AlexShcherbackov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexScherbackov/frontend-project-lvl1/issues"
+  },
+  "homepage": "https://github.com/AlexScherbackov/frontend-project-lvl1#readme"
+}
